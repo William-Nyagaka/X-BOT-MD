@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "",
+      "description": "XBOT-MD~8ogWGCAZ#rHWhBNvpzYl3pcnfCnU06pun1OP5cWPRPWuY6oM6_qo",
       "required": true,
-      "value": ""
+      "value": "XBOT-MD~8ogWGCAZ#rHWhBNvpzYl3pcnfCnU06pun1OP5cWPRPWuY6oM6_qo"
     },  
     
     "PREFIX": {
@@ -28,19 +28,19 @@
         "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
     
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "2349133354644"
+      "value": "254791950271"
 
     }, 
 
